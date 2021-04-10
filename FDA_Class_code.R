@@ -2,7 +2,7 @@
 # Exercise 1: Setting things up: Part 1 : loading the software
 #---------------------------------------------------------
 # Look in packages window and notice the packages (lower RHS-3rd tab)
-# The package "meta" is not listed
+# The package "meta" is not listed (It will be on the instructors list)
 # Install the package we will use onto your computer
 # This is only needed once but no harm if you do it every time  once
 install.packages("meta")
@@ -219,8 +219,12 @@ meta_pretty<-metabin(event.e, n.e, event.c, n.c, studlab=trial, sm="OR", comb.fi
 forest.meta(meta_pretty, lab.e = "Treated", lab.c = "Untreated", col.diamond = "red", col.square = "blue", col.square.lines = "green", col.fixed = "#FFEC33", col.random = "#D133FF", fs.random=18)
 
 
-ls()
+#-------------
+#  Exercise 13: Creating a traffic light risk of bias plot 
+install.packages("robvis")
+libary(robvis)
+# making a dataset 
+dat0 <- read.csv("robvus.csv")
+rob_traffic_light(data, "ROB2")
 
-dat2 <- read.csv("dat2.csv")
-meta2<-metabin(event.e, n.e, event.c, n.c, studlab=trial, sm="OR", comb.fixed = T, comb.random = T, data=dat2)
-funnel(meta2)
+
