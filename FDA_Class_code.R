@@ -17,7 +17,7 @@ library(meta)
 #This code will show you the folder you are working in
 getwd()
 # we want to be working in a folder with this code and dataset
-setwd(dirname(file.choose()))
+#setwd(dirname(file.choose()))
 # Look at the global environment window (top RHS) there is not data there
 # load the dataset we would like to use
 dat1 <- read.csv("dat1.csv")
