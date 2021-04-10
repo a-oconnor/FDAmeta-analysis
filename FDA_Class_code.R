@@ -222,9 +222,9 @@ forest.meta(meta_pretty, lab.e = "Treated", lab.c = "Untreated", col.diamond = "
 #-------------
 #  Exercise 13: Creating a traffic light risk of bias plot 
 install.packages("robvis")
-libary(robvis)
+library(robvis)
 # making a dataset 
-dat0 <- read.csv("robvus.csv")
-rob_traffic_light(data, "ROB2")
+datarob <- read.csv("robvis.csv")
+rob_traffic_light(datarob, "ROB2")
 
 
