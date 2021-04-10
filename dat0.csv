@@ -1,0 +1,27 @@
+trial,year,experimental,control,event.e,noevent.e,n.e,event.c,noevent.c,n.c,blinding,randomization,metaphylaxis
+AUTHOR1,"1984, 1985",Drug A,Placebo,14,92,106,14,86,100,0,1,0
+AUTHOR2,"1984, 1985",Drug A,Placebo,18,87,105,14,86,100,0,1,0
+AUTHOR3,1993,Drug A,Placebo,17,67,84,25,16,41,0,0,0
+AUTHOR4,Not reported,Drug A,Placebo,3,140,143,4,42,46,0,0,0
+AUTHOR5,Not reported,Drug A,Placebo,5,137,142,4,42,46,0,0,0
+AUTHOR6,Not reported,Drug A,Placebo,5,128,133,4,42,46,0,0,0
+AUTHOR7,Not reported,Drug A,Placebo,32,69,101,45,6,51,1,1,0
+AUTHOR8,Not reported,Drug A,Placebo,12,90,102,43,7,50,1,1,0
+AUTHOR9,Not reported,Drug A,Placebo,16,37,53,22,29,53,1,1,0
+AUTHOR10,Not reported,Drug A,Placebo,16,38,54,24,29,53,1,1,0
+AUTHOR11,Not reported,Drug A,Placebo,20,80,100,47,3,50,1,1,0
+AUTHOR12,Not reported,Drug A,Placebo,7,91,98,32,17,49,1,1,0
+AUTHOR13,Not reported,Drug A,Placebo,25,75,100,35,15,50,1,1,0
+AUTHOR14,Not reported,Drug A,Placebo,43,57,100,38,12,50,1,1,0
+AUTHOR15,Not reported,Drug A,Placebo,18,194,212,27,81,108,1,1,
+AUTHOR16,Not reported,Drug A,Placebo,129,138,267,128,135,263,1,1,0
+AUTHOR17,Not reported,Drug A,Placebo,148,396,544,171,365,536,1,1,1
+AUTHOR18,Not reported,Drug A,Placebo,23,57,80,36,44,80,1,1,0
+AUTHOR19,Not reported,Drug A,Placebo,18,61,79,20,57,77,1,1,0
+AUTHOR20,Not reported,Drug A,Placebo,9,71,80,17,63,80,1,1,0
+AUTHOR21,Not reported,Drug A,Placebo,19,61,80,37,43,80,1,1,0
+AUTHOR22,Not reported,Drug A,Placebo,3,14,17,3,7,10,0,1,0
+AUTHOR23,Not reported,Drug A,Placebo,2,17,19,3,7,10,0,1,0
+AUTHOR24,Not reported,Drug A,Placebo,2,14,14,3,11,14,0,1,0
+AUTHOR25,Not reported,Drug A,Placebo,3,14,14,3,11,14,0,1,0
+AUTHOR26,Not reported,Drug A,Placebo,4,14,14,3,11,14,0,1,0

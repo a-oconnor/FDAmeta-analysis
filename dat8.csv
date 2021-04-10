@@ -1,0 +1,18 @@
+trial,author,year,experimental,control,event.c,n.c,event.e,n.e,blinding,randomization,metaphylaxis,days
+1,Author-1 ,1993,DRUG A,No treatment,5,80,3,80,1,1,0,3
+2,Author-2,1994,DRUG A,No treatment,7,91,4,100,1,1,0,3
+3,Author-3,1996,DRUG A,No treatment,10,75,9,75,1,1,0,3
+4,Author-4,1997,DRUG A,No treatment,3,57,3,57,1,1,0,3
+5,Author-5,1997,DRUG A,No treatment,6,90,7,90,1,1,0,3
+6,Author-6,2000,DRUG A,No treatment,1,8,2,8,1,0,0,1
+7,Author-7,2002,DRUG A,No treatment,1,10,2,10,1,0,0,3
+8,Author-8,2003,DRUG A,No treatment,12,80,7,80,1,0,0,3
+9,Author-9,2005,DRUG A,No treatment,7,91,10,91,1,0,0,3
+10,Author-10,2007,DRUG A,No treatment,9,75,4,80,1,0,0,3
+11,Author-11,2008,DRUG A,No treatment,3,14,7,14,0,0,0,1
+12,Author-12,2010,DRUG A,No treatment,2,17,7,17,0,1,0,1
+13,Author-13,2012,DRUG A,No treatment,3,60,5,60,1,1,0,3
+14,Author-14,2014,DRUG A,No treatment,5,7,3,10,1,1,0,1
+15,Author-15,2014,DRUG A,No treatment,8,72,1,72,1,1,0,3
+16,Author-16,2015,DRUG A,No treatment,4,69,7,70,1,1,0,3
+17,Author-17,2017,DRUG A,No treatment,5,69,6,75,1,0,0,3
