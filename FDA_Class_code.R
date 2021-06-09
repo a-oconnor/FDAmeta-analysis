@@ -15,7 +15,7 @@ library(meta)
 # The package "meta" is listed but box is checked
 #-----------------------------------------------------------------
 #This code will show you the folder you are working in
-getwd()
+# getwd()
 # we want to be working in a folder with this code and dataset
 #setwd(dirname(file.choose()))
 # Look at the global environment window (top RHS) there is not data there
