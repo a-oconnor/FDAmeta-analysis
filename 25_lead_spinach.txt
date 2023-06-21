@@ -1,0 +1,1298 @@
+﻿TY  - JOUR
+AB  - Spinach plants were grown in soil pots contaminated with increasing mixtures of lead, mercury, cadmium, and nickel salts. Plants in the control soil were grown in the absence of the heavy metals mixture. The elemental distribution of Cd, Ni, Pb, and Hg in the roots and leaves of Spinach (Spinacia Oleracea) was determined in two stages, Stage 1, after five weeks of plant growth and Stage 2, after 10 weeks with full growth. Under the influence of contamination of soil with the heavy metal mixtures, Hg was the most accumulated element in the root of the spinach plant with a concentration of 283 ppm recorded in the highest contaminated soil, followed by Cd at 148 ppm.
+AD  - School of Chemistry, University of Durban-Westville, Durban, South Africa.
+AN  - 15186035
+AU  - Chunilall, V.
+AU  - Kindness, A.
+AU  - Jonnalagadda, S. B.
+DA  - May
+DB  - Medline
+DO  - 10.1081/pfc-120035931
+DP  - NLM
+IS  - 3
+KW  - Cadmium/metabolism
+Lead/metabolism
+Mercury/metabolism
+Metals, Heavy/chemistry/*metabolism
+Nickel/metabolism
+Plant Leaves/metabolism
+*Soil
+Soil Pollutants/*analysis
+Spinacia oleracea/growth & development/*metabolism
+Time Factors
+N1  - Chunilall, V
+Kindness, A
+Jonnalagadda, S B
+eng
+Research Support, Non-U.S. Gov't
+England
+2004/06/10
+J Environ Sci Health B. 2004 May;39(3):473-81. doi: 10.1081/pfc-120035931.
+PY  - 2004
+SN  - 0360-1234 (Print)
+0360-1234 (Linking)
+SP  - 473-81
+ST  - Heavy metal uptake by spinach leaves grown on contaminated soils with lead, mercury, cadmium, and nickel
+T2  - J Environ Sci Health B
+TI  - Heavy metal uptake by spinach leaves grown on contaminated soils with lead, mercury, cadmium, and nickel
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/15186035
+VL  - 39
+ID  - 24
+ER  - 
+
+TY  - JOUR
+AB  - Spinach RNA aptamer contains a G-quadruplex motif that serves as a platform for binding and fluorescence activation of a GFP-like fluorophore. Here we show that Pb(2+) induces formation of Spinach's G-quadruplex and activates fluorescence with high selectivity and sensitivity. This device establishes the first example of an RNA-based sensor that provides a simple and inexpensive tool for Pb(2+) detection.
+AD  - Department of Chemistry, The University of Chicago, Chicago, IL 60637, USA. jpicciri@uchicago.edu.
+AN  - 25940073
+AU  - DasGupta, S.
+AU  - Shelke, S. A.
+AU  - Li, N. S.
+AU  - Piccirilli, J. A.
+C2  - PMC4755583
+DA  - May 28
+DB  - Medline
+DO  - 10.1039/c5cc01526j
+DP  - NLM
+IS  - 43
+KW  - Aptamers, Nucleotide/*chemistry/metabolism
+Circular Dichroism
+Fluorescent Dyes/chemistry
+G-Quadruplexes
+Ions/chemistry
+Lead/*analysis
+Spectrometry, Fluorescence
+Spinacia oleracea/*metabolism
+N1  - DasGupta, Saurja
+Shelke, Sandip A
+Li, Nan-sheng
+Piccirilli, Joseph A
+eng
+R01 GM102489/GM/NIGMS NIH HHS/
+5R01GM102489/GM/NIGMS NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2015/05/06
+Chem Commun (Camb). 2015 May 28;51(43):9034-7. doi: 10.1039/c5cc01526j.
+PY  - 2015
+SN  - 1364-548X (Electronic)
+1359-7345 (Print)
+1359-7345 (Linking)
+SP  - 9034-7
+ST  - Spinach RNA aptamer detects lead(II) with high selectivity
+T2  - Chem Commun (Camb)
+TI  - Spinach RNA aptamer detects lead(II) with high selectivity
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/25940073
+VL  - 51
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Ipomoea aquatica (Convolvulaceae), an aquatic edible plant, is traditionally used against heavy metal toxicity in India. The current study intended to explore the protective role of edible (aqueous) extract of I. aquatica (AEIA) against experimentally induced Pb-intoxication. METHODS: The cytoprotective role of AEIA was measured on mouse hepatocytes by cell viability assay followed by Hoechst staining and flow cytometric assay. The effect on ROS production, lipid peroxidation, protein carbonylation, intracellular redox status were measured after incubating the hepatocytes with Pb-acetate (6.8 muM) along with AEIA (400 mug/ml). The effects on the expressions of apoptotic signal proteins were estimated by western blotting. The protective role of AEIA was measured by in vivo assay in mice. Haematological, serum biochemical, tissue redox status, Pb bioaccumulation and histological parameters were evaluated to estimate the protective role of AEIA (100 mg/kg) against Pb-acetate (5 mg/kg) intoxication. RESULTS: Pb-acetate treated hepatocytes showed a gradual reduction of cell viability dose-dependently with an IC50 value of 6.8 muM. Pb-acetate treated hepatocytes exhibited significantly enhanced levels (p < 0.01) of ROS production, lipid peroxidation, protein carbonylation with concomitant depletion (p < 0.01) of antioxidant enzymes and GSH. However, AEIA treatment could significantly restore the aforementioned parameters in murine hepatocytes near to normalcy. Besides, AEIA significantly reversed (p < 0.05-0.01) the alterations of transcription levels of apoptotic proteins viz. Bcl 2, Bad, Cyt C, Apaf-1, cleaved caspases [caspase 3, caspase 8 and caspase 9], Fas and Bid. In in vivo bioassay, Pb-acetate treatment caused significantly high intracellular Pb burden and oxidative pressure in the kidney, liver, heart, brain and testes in mice. In addition, the haematological and serum biochemical factors were changed significantly in Pb-acetate-treated animals. AEIA treatment restored significantly the evaluated-parameters to the near-normal position. CONCLUSION: The extract may offer the protective effect via counteracting with Pb mediated oxidative stress and/or promoting the elimination of Pb by chelating. The presence of substantial quantities of flavonoids, phenolics and saponins would be responsible for the overall protective effect.
+AD  - Advanced Pharmacognosy Research Laboratory, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, 700032, India.
+Department of Pharmacognosy, University of Karachi, Karachi, 75270, Pakistan.
+Department of Crop Science, Faculty of Agriculture, Universiti Putra, Selangor, 43400, Malaysia.
+AN  - 26473485
+AU  - Dewanjee, S.
+AU  - Dua, T. K.
+AU  - Khanra, R.
+AU  - Das, S.
+AU  - Barma, S.
+AU  - Joardar, S.
+AU  - Bhattacharjee, N.
+AU  - Zia-Ul-Haq, M.
+AU  - Jaafar, H. Z.
+C1  - Competing Interests: The authors have declared that no competing interests exist.
+C2  - PMC4608788
+DB  - Medline
+DO  - 10.1371/journal.pone.0139831
+DP  - NLM
+ET  - 20151016
+IS  - 10
+KW  - Animals
+Apoptosis/*drug effects
+Cells, Cultured
+Cytoprotection/drug effects
+Hepatocytes/*metabolism/pathology
+Ipomoea/*chemistry
+Lead Poisoning/metabolism/pathology/*prevention & control
+Mice
+Organometallic Compounds/*toxicity
+Oxidative Stress/*drug effects
+Plant Extracts/chemistry/*pharmacology
+N1  - Dewanjee, Saikat
+Dua, Tarun K
+Khanra, Ritu
+Das, Shilpa
+Barma, Sujata
+Joardar, Swarnalata
+Bhattacharjee, Niloy
+Zia-Ul-Haq, M
+Jaafar, Hawa Z E
+eng
+Research Support, Non-U.S. Gov't
+2015/10/17
+PLoS One. 2015 Oct 16;10(10):e0139831. doi: 10.1371/journal.pone.0139831. eCollection 2015.
+PY  - 2015
+SN  - 1932-6203 (Electronic)
+1932-6203 (Linking)
+SP  - e0139831
+ST  - Water Spinach, Ipomoea aquatic (Convolvulaceae), Ameliorates Lead Toxicity by Inhibiting Oxidative Stress and Apoptosis
+T2  - PLoS One
+TI  - Water Spinach, Ipomoea aquatic (Convolvulaceae), Ameliorates Lead Toxicity by Inhibiting Oxidative Stress and Apoptosis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26473485
+VL  - 10
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - A greenhouse research was conducted to monitor lead (Pb) translocation dynamics in spinach (Spinacia oleracea L.) mediated by nickel (Ni) application. Each of the four levels of Pb (0, 100, 150, and 300 mg/kg) and Ni (0, 100, 150, and 300 mg/kg) was applied in different combinations in the pot experiment. A fully matured spinach crop was harvested and divided into biomass samples from the roots and above ground. ICP-OES was used to determine the concentrations of Pb and Ni in the samples. The increase in Pb application rate in soil resulted in a decrease in dry matter yield of plant roots and above-ground biomass, according to the findings. Pb accumulation was also found in significant amounts in roots and above-ground biomass. Pb was accumulated in greater quantities in the spinach roots than in the above-ground biomass. Pb uptake in spinach roots and above-ground biomass decreased when high dose of Ni was applied. The Ni application in spinach crop had a negative impact on various parameters of Pb uptake, including translocation factor, bioconcentration factor, translocation efficiency, and crop removal of Pb. Pb toxicity was reduced when higher doses of Ni (100 to 300 mg/kg) were applied to Pb-contaminated soil. The findings of this study could help researchers better understand how Pb and Ni interact, as well as how to treat soil that has been contaminated by industrial wastewater containing nickel and lead.
+AD  - ICAR-Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal, 462 038, India. mohan30682@gmail.com.
+ICAR-Directorate of Rapeseed-Mustard Research, Sewar, Bharatpur, 321 303, India. mohan30682@gmail.com.
+ICAR-Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal, 462 038, India.
+Department of Soil Science & Agricultural Chemistry, RAK College of Agriculture, Sehore, 466 001, India.
+Division of Natural Resources, ICAR-Indian Institute of Horticultural Research, Bangalore, 560 089, India.
+Department of Agronomy, RAK College of Agriculture, 466 001, Sehore, India.
+Division of Soil Resource Studies, National Bureau of Soil Survey and Land Use Planning, Nagpur, 440 033, India.
+AN  - 35389101
+AU  - Dotaniya, M. L.
+AU  - Pipalde, J. S.
+AU  - Jain, R. C.
+AU  - Selladurai, R.
+AU  - Gupta, S. C.
+AU  - Das Vyas, M.
+AU  - Vassanda Coumar, M.
+AU  - Sahoo, S.
+AU  - Saha, J. K.
+AU  - Kumar, A.
+DA  - Apr 7
+DB  - Medline
+DO  - 10.1007/s10661-022-09935-4
+DP  - NLM
+ET  - 20220407
+IS  - 5
+KW  - Biodegradation, Environmental
+Environmental Monitoring
+Lead
+*Nickel
+Soil
+*Soil Pollutants/analysis
+Spinacia oleracea
+Bioconcentration factor
+Crop removal
+Heavy metals
+Nickel
+Spinach
+N1  - Dotaniya, Mohan Lal
+Pipalde, Jaypal Singh
+Jain, Ramesh Chandra
+Selladurai, Rajendiran
+Gupta, Subhash Chandra
+Das Vyas, Madhav
+Vassanda Coumar, M
+Sahoo, Sonalika
+Saha, Jayanta Kumar
+Kumar, Ajay
+eng
+Netherlands
+2022/04/08
+Environ Monit Assess. 2022 Apr 7;194(5):334. doi: 10.1007/s10661-022-09935-4.
+PY  - 2022
+SN  - 1573-2959 (Electronic)
+0167-6369 (Linking)
+SP  - 334
+ST  - Nickel-mediated lead dynamics and their interactive effect on lead partitioning and phytoremediation indices in spinach
+T2  - Environ Monit Assess
+TI  - Nickel-mediated lead dynamics and their interactive effect on lead partitioning and phytoremediation indices in spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/35389101
+VL  - 194
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - In Southeast Asia the aquatic macrophyte water spinach (Ipomoea aquatica Forsk.) is a popular vegetable that is cultivated in freshwater courses. These often serve as recipients for domestic and other sorts of wastewater that often contain a variety of pollutants, such as heavy metals. In addition, fertilizers are frequently used where water spinach is cultivated commercially for the food market. To estimate the importance of ambient nutrient concentrations for accumulation of mercury (Hg), cadmium (Cd), and lead (Pb) in water spinach, plants were exposed to nutrient solutions of different strength and with varying metal concentrations. Metal-induced toxic effects, which might possibly affect the yield of the plants, were also studied. The lower the nutrient strength in the medium was, the higher the metal concentrations that accumulated in the different plant parts and the lower the metal concentration in the medium at which metal-induced toxic effects occurred. Accordingly, internal metal concentrations in the plants were correlated to toxic effects. Plants exposed to metals retained a major proportion of the metals in the roots, which had a higher tolerance than shoots for high internal metal concentrations.
+AD  - Institute of Applied Environmental Research (ITM), Laboratory for Aquatic Environmental Chemistry, SE-106 91 Stockholm, Sweden. agneta.goethberg@itm.su.se
+AN  - 15254106
+AU  - Gothberg, A.
+AU  - Greger, M.
+AU  - Holm, K.
+AU  - Bengtsson, B. E.
+DA  - Jul-Aug
+DB  - Medline
+DO  - 10.2134/jeq2004.1247
+DP  - NLM
+IS  - 4
+KW  - Cadmium/*pharmacokinetics
+Ipomoea/*chemistry/growth & development
+Lead/*pharmacokinetics
+Mercury/*pharmacokinetics
+Nitrogen/pharmacology
+Phosphorus/pharmacology
+Plant Roots/chemistry
+Tissue Distribution
+Water Pollutants/*pharmacokinetics
+N1  - Gothberg, Agneta
+Greger, Maria
+Holm, Karin
+Bengtsson, Bengt-Erik
+eng
+Research Support, Non-U.S. Gov't
+2004/07/16
+J Environ Qual. 2004 Jul-Aug;33(4):1247-55. doi: 10.2134/jeq2004.1247.
+PY  - 2004
+SN  - 0047-2425 (Print)
+0047-2425 (Linking)
+SP  - 1247-55
+ST  - Influence of nutrient levels on uptake and effects of mercury, cadmium, and lead in water spinach
+T2  - J Environ Qual
+TI  - Influence of nutrient levels on uptake and effects of mercury, cadmium, and lead in water spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/15254106
+VL  - 33
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AB  - This study aimed to evaluate the influence of different light regimens during spinach cultivation on the isomeric composition of beta-carotene. Irradiation with a halogen lamp, which has a wavelength spectrum close to that of daylight, was used to mimic field-grown conditions. The additional use of optical filters was established as a model system for greenhouse cultivation. Field-grown model systems led to a preferential increase of 9-cis-beta-carotene, whereas 13-cis-beta-carotene was just formed at the beginning of irradiation. Additionally 9,13-di-cis-beta-carotene decreased significantly in the presence of energy-rich light. Isomerization of beta-carotene was strongly suppressed during irradiation in greenhouse-grown model systems and led to significant differences. These results were verified in biological samples. Authentic field-grown spinach (Spinacia oleracea L.) showed among changes of other isomers a significantly higher level of 9-cis-isomers (7.52 +/- 0.14%) and a significantly lower level of 9,13-di-cis-isomers (0.25 +/- 0.03%) compared to authentic greenhouse-grown spinach (6.49 +/- 0.11 and 0.76 +/- 0.05%). Almost all analyzed commercial spinach samples (fresh and frozen) were identified as common field-grown cultivation. Further investigations resulted in a clear differentiation of frozen commercial samples from fresh spinach, caused by significantly higher levels of 13-cis- and 15-cis-beta-carotene as a result of industrial blanching processes.
+AD  - Institute of Chemistry, Food Chemistry, Martin-Luther-University Halle-Wittenberg , Kurt-Mothes-Strasse 2, 06120 Halle/Saale, Germany.
+AN  - 24831992
+AU  - Heymann, T.
+AU  - Westphal, L.
+AU  - Wessjohann, L.
+AU  - Glomb, M. A.
+DA  - May 28
+DB  - Medline
+DO  - 10.1021/jf501136g
+DP  - NLM
+ET  - 20140515
+IS  - 21
+KW  - Carotenoids/*chemistry
+Food Handling
+Frozen Foods/analysis
+Isomerism
+Light
+Spinacia oleracea/*chemistry/*growth & development/radiation effects
+N1  - Heymann, Thomas
+Westphal, Lore
+Wessjohann, Ludger
+Glomb, Marcus A
+eng
+2014/05/17
+J Agric Food Chem. 2014 May 28;62(21):4960-7. doi: 10.1021/jf501136g. Epub 2014 May 15.
+PY  - 2014
+SN  - 1520-5118 (Electronic)
+0021-8561 (Linking)
+SP  - 4960-7
+ST  - Growing and processing conditions lead to changes in the carotenoid profile of spinach
+T2  - J Agric Food Chem
+TI  - Growing and processing conditions lead to changes in the carotenoid profile of spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24831992
+VL  - 62
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - Breeding for pollution-safe cultivars (PSCs) can reduce pollutant accumulation in crops. However, the PSC breeding would face the risk of nutritional quality reduction, which is usually ignored in conventional breeding programs targeting to increase crop yield or nutritional quality. Thus, the doubt whether the risk would exist has to be clarified for supporting the PSC breeding. In the present study, a newly bred Cd/Pb-PSC of water spinach (Ipomoea aquatic Forsk.) and its parents (QLQ with low-Cd/Pb accumulation ability and T308 with high yield) of water spinach were employed to clarify the above-mentioned issue. Yields, and concentrations of Cd, Pb, nitrite, and organic and inorganic nutrients in shoots of the three experimental lines were determined. There were no significant differences in Cd/Pb concentration between the new PSC and QLQ, in nitrite content between the new PSC and its two parents and in yield between the new PSC and T308. It is decisively significant that shoot concentrations of organic and inorganic nutrients in the Cd/Pb-PSC were as high as those in one of its parents. It is affirmed that the breeding operations (crossing and consequently continuous selfing) for lowering Cd/Pb accumulation capacity of water spinach would not lower the nutritional values of the obtained Cd/Pb-PSCs from the breeding, which should be a pillar that supports the feasibility to minimize Cd/Pb pollution in vegetables using PSC-breeding method.
+AD  - State Key Laboratory for Biocontrol, School of Life Sciences, Sun Yat-Sen University, Xingang Xi Road 135, Guangzhou, 510275, China.
+Institute of Agriculture Resources and Environment, Ningxia Academy of Agriculture and Forestry Science, Huanghe Dong Road 590, Yinchuan, 750002, China.
+State Key Laboratory for Biocontrol, School of Life Sciences, Sun Yat-Sen University, Xingang Xi Road 135, Guangzhou, 510275, China. adsyzy@mail.sysu.edu.cn.
+AN  - 29417480
+AU  - Huang, Y. Y.
+AU  - Mu, Y. X.
+AU  - He, C. T.
+AU  - Fu, H. L.
+AU  - Wang, X. S.
+AU  - Gong, F. Y.
+AU  - Yang, Z. Y.
+DA  - Apr
+DB  - Medline
+DO  - 10.1007/s11356-018-1354-2
+DP  - NLM
+ET  - 20180207
+IS  - 11
+KW  - Cadmium/*metabolism
+Crops, Agricultural/genetics/metabolism
+Ipomoea/genetics/*metabolism
+Lead/*metabolism
+Soil Pollutants/*metabolism
+Breeding of pollution-safe cultivar
+Cadmium (Cd)
+Lead (Pb)
+Minerals
+Organic nutrient
+Water spinach (Ipomoea aquatica Forsk.)
+N1  - Huang, Ying-Ying
+Mu, Yang-Xiu
+He, Chun-Tao
+Fu, Hui-Ling
+Wang, Xue-Song
+Gong, Fei-Yue
+Yang, Zhong-Yi
+eng
+Grant No 21277178/National Natural Science Foundation of China/
+2016M602568/China Postdoctoral Science Foundation/
+Germany
+2018/02/09
+Environ Sci Pollut Res Int. 2018 Apr;25(11):11152-11162. doi: 10.1007/s11356-018-1354-2. Epub 2018 Feb 7.
+PY  - 2018
+SN  - 1614-7499 (Electronic)
+0944-1344 (Linking)
+SP  - 11152-11162
+ST  - Cadmium and lead accumulations and agronomic quality of a newly bred pollution-safe cultivar (PSC) of water spinach
+T2  - Environ Sci Pollut Res Int
+TI  - Cadmium and lead accumulations and agronomic quality of a newly bred pollution-safe cultivar (PSC) of water spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/29417480
+VL  - 25
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - Accumulation of heavy metals in the environment can pose a potential risk to living organisms. Ingestion of leafy vegetables, containing heavy metals, is one of the main routes through which these elements enter the human body. The present study was conducted to assess the accumulation of lead (Pb) and zinc (Zn) in spinach grown on metal contaminated soil, and to examine the bioassimilation of these metals in spinach-fed rabbits. Spinach grown in the fields spiked with Pb (1000 mg kg(-1) soil) and Zn (150 mg kg(-1) soil), was fed to the rabbits for 14 days. Concentrations of Pb and Zn in the leaves of spinach were 39.1 and 113 mg kg(-1), respectively. For the assessment of Pb and Zn concentration, blood samples were collected after 24 h, 7 days and 14 days of feeding, while the essential organs, i.e. liver and kidneys of rabbits were collected at the end of feeding trials. Concentrations (mg L(-1)) of Pb (3.28) and Zn (7.10) increased in blood after 24 h compared to control treatment and then decreased (Pb 1.12; Zn 3.32) to a steady state with the passage of time after 7 days. A significant increase in the concentrations of Pb (1.20%, 3.95% and 5.58%) and Zn (10.7%, 6.89% and 18.4%) as compared to control treatment was also found in liver, kidney and bones of the rabbits, respectively, which was further confirmed by multivariate analysis. The highest significant values of correlation coefficient (r) were observed for blood and bones, i.e. 0.992 followed by blood and liver, i.e. 0.989. The bioassimilation of Pb in the body of rabbits was in the order of bone > kidney > liver > blood, while for Zn the order was bone > liver > kidney > blood. The bioassimilation of Pb and Zn in the blood, essential organs and bones depicted the serious health risks associated by consuming the metal contaminated vegetable.
+AD  - Institute of Soil and Environmental Sciences, University of Agriculture, Faisalabad 38040, Pakistan.
+Institute of Soil and Environmental Sciences, University of Agriculture, Faisalabad 38040, Pakistan. Electronic address: gmurtaza@uaf.edu.pk.
+College of Life Sciences, Yan'an University, Yan'an 716000, Shaanxi, China. Electronic address: wangxiukang@yau.edu.cn.
+R&D Department, Fauji Fertilizer Company Ltd., Rawalpindi, Pakistan.
+Department of Environmental Sciences and Engineering, Government College University Faisalabad, Faisalabad 38000, Pakistan.
+Department of Environmental Sciences and Engineering, Government College University Faisalabad, Faisalabad 38000, Pakistan; Department of Biological Sciences and Technology, China Medical University, Taichung 40402, Taiwan. Electronic address: shafaqataligill@gcuf.edu.pk.
+Department of Environmental Sciences, COMSAT University Islamabad, Vehari-Campus, Vehari 61100, Pakistan.
+Department of Plant Breeding and Genetics, The University of Haripur, 22620 Pakistan.
+AN  - 34419642
+AU  - Hussain, T.
+AU  - Murtaza, G.
+AU  - Wang, X.
+AU  - Zia, M. H.
+AU  - Aziz, H.
+AU  - Ali, S.
+AU  - Murtaza, B.
+AU  - Fiaz, S.
+DA  - Aug 19
+DB  - Publisher
+DO  - 10.1016/j.ecoenv.2021.112638
+DP  - NLM
+ET  - 20210819
+KW  - Biomagnification
+Food chain
+Health hazard
+Heavy metals
+Vegetables
+N1  - Hussain, Tajammal
+Murtaza, Ghulam
+Wang, Xiukang
+Zia, Munir Hussain
+Aziz, Humera
+Ali, Shafaqat
+Murtaza, Behzad
+Fiaz, Sajid
+eng
+Netherlands
+2021/08/23
+Ecotoxicol Environ Saf. 2021 Aug 19;224:112638. doi: 10.1016/j.ecoenv.2021.112638.
+PY  - 2021
+SN  - 1090-2414 (Electronic)
+0147-6513 (Linking)
+SP  - 112638
+ST  - Bioassimilation of lead and zinc in rabbits fed on spinach grown on contaminated soil
+T2  - Ecotoxicol Environ Saf
+TI  - Bioassimilation of lead and zinc in rabbits fed on spinach grown on contaminated soil
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34419642
+VL  - 224
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - The spinach was tested in the present studies for its phytoextraction potential. Furthermore, the study assessed whether organic chelants could reduce oxidative stress, and thus enhance growth of spinach plants under 2.42 and 4.83mM Pb regimes. Different organic chelates viz. ethylenediamine tetra acetic acid, (EDTA), citric acid (CA), oxalic acid (OA), tartaric acid (TA) and malic acid (MA) were applied separately in addition to control (without chelating agents) under different Pb regimes. The low (2.42mM) Pb regime increased biological yield (kgha(-1)). All the chelates except OA increased biological yield under low Pb regime. In contrast, TA caused less decrease in biomass under high (4.83mM) Pb regime. The chelate-assisted rise in the antioxidant activities substantially contributed to reactive oxygen species (ROS) neutralization. Of the chelates, TA was the most effective in improving Pb uptake and its root to shoot translocation. Overall, the chelate-assisted buildup of Pb in the spinach did not exhibit inhibitory effects on the plant growth possibly due to their potential to decrease Pb-induced oxidative damage. The results elaborated the potential of TA in increasing root to shoot translocation of Pb, biomass, and thus suggested its use for phytoextraction of Pb using spinach in Pb contaminated environments.
+AD  - Department of Botany, Government College University, Faisalabad (38000), Pakistan.
+Department of Botany, Government College University, Faisalabad (38000), Pakistan. Electronic address: iqbaluaf@yahoo.com.
+Nuclear Institute for Agriculture and Biology (NIAB), Faisalabad, Pakistan.
+Department of Environmental Sciences and Engineering, Government College University, Faisalabad, Pakistan.
+AN  - 27318732
+AU  - Khan, I.
+AU  - Iqbal, M.
+AU  - Ashraf, M. Y.
+AU  - Ashraf, M. A.
+AU  - Ali, S.
+DA  - Nov 5
+DB  - Medline
+DO  - 10.1016/j.jhazmat.2016.06.007
+DP  - NLM
+ET  - 20160605
+KW  - Biodegradation, Environmental
+Chelating Agents/*pharmacology
+Lead/analysis/*metabolism
+Plant Roots/drug effects/growth & development/metabolism
+Plant Shoots/drug effects/growth & development/metabolism
+Soil Pollutants/analysis/*metabolism
+Spinacia oleracea/drug effects/growth & development/*metabolism
+Antioxidants
+Organic chelants
+Oxidants
+Phytoextraction
+Spinach
+N1  - Khan, Imran
+Iqbal, Muhammad
+Ashraf, Muhammad Yasin
+Ashraf, Muhammad Arslan
+Ali, Shafaqat
+eng
+Netherlands
+2016/06/20
+J Hazard Mater. 2016 Nov 5;317:352-361. doi: 10.1016/j.jhazmat.2016.06.007. Epub 2016 Jun 5.
+PY  - 2016
+SN  - 1873-3336 (Electronic)
+0304-3894 (Linking)
+SP  - 352-361
+ST  - Organic chelants-mediated enhanced lead (Pb) uptake and accumulation is associated with higher activity of enzymatic antioxidants in spinach (Spinacea oleracea L.)
+T2  - J Hazard Mater
+TI  - Organic chelants-mediated enhanced lead (Pb) uptake and accumulation is associated with higher activity of enzymatic antioxidants in spinach (Spinacea oleracea L.)
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/27318732
+VL  - 317
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - Lead (Pb) is the most common heavy metal contaminant in the environment. Pb is not an essential element for plants, but they absorb it when it is present in their environment, especially in rural areas when the soil is polluted by automotive exhaust and in fields contaminated with fertilizers containing heavy metal impurities. To investigate lead effects on nutrient uptake and metabolism, two plant species, spinach (Spinacia oleracea) and wheat (Triticum aestivum), were grown under hydroponic conditions and stressed with lead nitrate, Pb(NO3)2, at three concentrations (1.5, 3, and 15 mM). Lead is accumulated in a dose-dependent manner in both plant species, which results in reduced growth and lower uptake of all mineral ions tested. Total amounts and concentrations of most mineral ions (Na, K, Ca, P, Mg, Fe, Cu and Zn) are reduced, although Mn concentrations are increased, as its uptake is reduced less relative to the whole plant's growth. The deficiency of mineral nutrients correlates in a strong decrease in the contents of chlorophylls a and b and proline in both species, but these effects are less pronounced in spinach than in wheat. By contrast, the effects of lead on soluble proteins differ between species; they are reduced in wheat at all lead concentrations, whereas they are increased in spinach, where their value peaks at 3 mM Pb. The relative lead uptake by spinach and wheat, and the different susceptibility of these two species to lead treatment are discussed.
+AD  - PER-Centre des Etudes Environnementales Mediterraneennes, Equipe de recherche Biotechnologies et Genie des Biomolecules, Universite Abdelmalek Essaadi, Faculte des Sciences et Techniques, BP 416, Tangier, Morocco.
+AN  - 23961216
+AU  - Lamhamdi, M.
+AU  - El Galiou, O.
+AU  - Bakrim, A.
+AU  - Novoa-Munoz, J. C.
+AU  - Arias-Estevez, M.
+AU  - Aarab, A.
+AU  - Lafont, R.
+C2  - PMC3730938
+DA  - Jan
+DB  - PubMed-not-MEDLINE
+DO  - 10.1016/j.sjbs.2012.09.001
+DP  - NLM
+ET  - 20120908
+IS  - 1
+KW  - Chlorophyll
+Heavy metal stress
+Nutrient elements
+Proline
+Soluble protein
+Spinach
+Wheat
+N1  - Lamhamdi, Mostafa
+El Galiou, Ouiam
+Bakrim, Ahmed
+Novoa-Munoz, Juan Carlos
+Arias-Estevez, Manuel
+Aarab, Ahmed
+Lafont, Rene
+eng
+Saudi Arabia
+2013/08/21
+Saudi J Biol Sci. 2013 Jan;20(1):29-36. doi: 10.1016/j.sjbs.2012.09.001. Epub 2012 Sep 8.
+PY  - 2013
+SN  - 1319-562X (Print)
+2213-7106 (Electronic)
+2213-7106 (Linking)
+SP  - 29-36
+ST  - Effect of lead stress on mineral content and growth of wheat (Triticum aestivum) and spinach (Spinacia oleracea) seedlings
+T2  - Saudi J Biol Sci
+TI  - Effect of lead stress on mineral content and growth of wheat (Triticum aestivum) and spinach (Spinacia oleracea) seedlings
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23961216
+VL  - 20
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - SCOPE: Food matrix is generally believed to alter carotenoid bioavailability, but its effect on xanthophylls is usually limited. This study thus aims to decipher the digestion-absorption process of lutein in the presence or not of a food matrix. METHODS: Lutein transfer to gastric-like lipid droplets or artificial mixed micelles was assessed when lutein was added to test meals either as a pure molecule ((all-E)-lutein) or in canned spinach ((Z) + (all-E)-lutein). The obtained mixed micelles were delivered to Caco-2 cells to evaluate lutein uptake. Finally postprandial plasma lutein responses were compared in minipigs after the two test meals. RESULTS: Lutein transfer to gastric-like lipid droplets and to mixed micelles was higher when lutein was added in spinach than when it was added as pure lutein (+614% and +147%, respectively, p < 0.05). Conversely, lutein uptake was less effective when micellar lutein was from a meal containing spinach than from a meal containing its pure form (-55%, p < 0.05). In minipigs, postprandial lutein response was delayed with spinach but not significantly different after the two test meals. CONCLUSION: Opposite effects at the micellarization and intestinal cell uptake steps explain the lack of effect of spinach matrix on lutein bioavailability.
+AD  - INRA, INSERM, Aix-Marseille Universite C2VN, F-13005 Marseille, France.
+Universite Clermont Auvergne, INRA, UNH, CRNH Auvergne, F-63000 Clermont-Ferrand, France.
+UMR408 SQPOV Securite et Qualite des Produits d'Origine Vegetale Domaine Saint Paul, INRA, Avignon University, F-84000 Avignon, France.
+AN  - 29667316
+AU  - Margier, M.
+AU  - Buffiere, C.
+AU  - Goupy, P.
+AU  - Remond, D.
+AU  - Halimi, C.
+AU  - Caris-Veyrat, C.
+AU  - Borel, P.
+AU  - Reboul, E.
+DA  - Jun
+DB  - Medline
+DO  - 10.1002/mnfr.201800185
+DP  - NLM
+ET  - 20180517
+IS  - 11
+KW  - Animals
+Antineoplastic Combined Chemotherapy Protocols
+Biological Availability
+Caco-2 Cells
+Carotenoids/analysis
+Cooking
+Cyclophosphamide
+Etoposide
+Humans
+Intestinal Absorption
+Lutein/*blood/*pharmacology
+Male
+Mitoxantrone
+Postprandial Period
+Prednisone
+Spinacia oleracea/*chemistry
+Swine
+Swine, Miniature
+bioaccessibility
+carotenoid
+enterocyte
+in vitro digestion
+intestine
+lutein isomer
+minipigs
+xanthophyll
+N1  - Margier, Marielle
+Buffiere, Caroline
+Goupy, Pascale
+Remond, Didier
+Halimi, Charlotte
+Caris-Veyrat, Catherine
+Borel, Patrick
+Reboul, Emmanuelle
+eng
+Research Support, Non-U.S. Gov't
+Germany
+2018/04/19
+Mol Nutr Food Res. 2018 Jun;62(11):e1800185. doi: 10.1002/mnfr.201800185. Epub 2018 May 17.
+PY  - 2018
+SN  - 1613-4133 (Electronic)
+1613-4125 (Linking)
+SP  - e1800185
+ST  - Opposite Effects of the Spinach Food Matrix on Lutein Bioaccessibility and Intestinal Uptake Lead to Unchanged Bioavailability Compared to Pure Lutein
+T2  - Mol Nutr Food Res
+TI  - Opposite Effects of the Spinach Food Matrix on Lutein Bioaccessibility and Intestinal Uptake Lead to Unchanged Bioavailability Compared to Pure Lutein
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/29667316
+VL  - 62
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - Lead (Pb) pollution is a severe problem that primarily affects food chain in developing countries. Continuous use of Pb containing effluent for growing food crops builds up measurable concentration of Pb in soils; and adversely affects the soil properties and crop produce quality. To reduce the Pb metal toxicity in contaminated soil, a pot experiment was conducted with graded doses of pressmud (PM) (0, 2.5, 5.0, and 10.0 g/kg) and Pb (0, 100, 150, and 300 mg/kg soil). Various metal dynamics parameters were computed after spinach crop was harvested. Result showed that higher doses of Pb (300 mg/kg) diminished the spinach root and shoot biomass during the study; whereas, application of PM improved the spinach biomass. However, increasing the pressmud reduced the Pb concentration in shoot from 6.16, 5.99, 4.94, and 3.39 microg/g. Maximum reduction was measured in highest PM applied treatment in shoot (44.92%) and root (57.33%). In this experiment, increasing level of Pb significantly uptake was recorded with higher application rate of Pb (150 and 300 mg/kg). However, elevated doses of PM from control initially enhanced the small chunk of Pb and drastically reduced the shoot Pb uptake (0.060 to 0.049 mg/pot) in maximum level of PM applied treatment. This study is very useful to improve the soil health by immobilizing the labile fraction of Pb by addition of PM in Pb-contaminated soils.
+AD  - Department of Environmental Sciences, College of Agriculture, Gwalior, 474 002, India.
+ICAR-Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal, 462 038, India. mohan30682@gmail.com.
+ICAR-Directorate of Rapeseed-Mustard Research, Sewar, Bharatpur, 321 303, India. mohan30682@gmail.com.
+Department of Environmental Sciences, College of Agriculture, Gwalior, 474 002, India. asdrsbarwani@gmail.com.
+Department of Soil Science & Agricultural Chemistry, Swami Keshwanand Rajasthan Agricultural University, Bikaner, 334 006, India.
+Department of Agronomy, SKN College of Agriculture, Jobner, 303 328, India.
+ICAR-Indian Institute of Soil Science, Nabibagh, Berasia Road, Bhopal, 462 038, India.
+AN  - 36376496
+AU  - Nagar, M. C.
+AU  - Dotaniya, M. L.
+AU  - Sharma, A.
+AU  - Dotaniya, C. K.
+AU  - Doutaniya, R. K.
+AU  - Saha, J. K.
+DA  - Nov 14
+DB  - Medline
+DO  - 10.1007/s10661-022-10718-0
+DP  - NLM
+ET  - 20221114
+IS  - 1
+KW  - *Lead/toxicity/analysis
+Spinacia oleracea
+*Soil Pollutants/toxicity/analysis
+Biomass
+Environmental Monitoring
+Soil
+Biodegradation, Environmental
+Crop productivity
+Heavy metal
+Lead dynamics
+Pressmud, Soil health
+N1  - Nagar, M C
+Dotaniya, M L
+Sharma, Amita
+Dotaniya, C K
+Doutaniya, R K
+Saha, J K
+eng
+Netherlands
+2022/11/15
+Environ Monit Assess. 2022 Nov 14;195(1):107. doi: 10.1007/s10661-022-10718-0.
+PY  - 2022
+SN  - 1573-2959 (Electronic)
+0167-6369 (Linking)
+SP  - 107
+ST  - Pressmud overcome lead toxicity by improving spinach biomass in lead-contaminated soils
+T2  - Environ Monit Assess
+TI  - Pressmud overcome lead toxicity by improving spinach biomass in lead-contaminated soils
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/36376496
+VL  - 195
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - Despite extensive research progress in the recent past, the data regarding foliar uptake of heavy metals, associated biophysiochemical changes inside plants and possible health hazards are limited. This study determined the effect of foliar application of lead oxide nanoparticles (PbO-NPs) on lead (Pb) accumulation, physiological and biochemical changes inside spinach plants and associated health risks. A green method was used to prepare PbO-NPs using coconut water. Scanning electron microscopy (SEM) showed the preparation of smooth, unwrinkled, granular and spherical PbO-NPs. Spinach leaves were exposed via foliar application to three concentrations of PbO-NPs (0, 10 and 50 mg/plant). Foliar PbO-NPs application resulted in a significant accumulation of Pb in leaves (42.25 mug g(-1)), with limited translocation towards root tissues (4.46 mug g(-1)). This revealed that spinach can accumulate considerable amount of Pb via foliar uptake. Lead accumulation inside spinach caused a significant decrease in pigment contents (38%) and dry weight (67%). After foliar uptake, Pb caused several-fold increase in the activities of catalase and peroxidase. However, foliar PbO-NPs did not induce significant changes in H(2)O(2) production, lipid peroxidation and superoxide dismutase activity. Application of PbO-NPs (50 mg/plant) showed possible health risks (non-carcinogenic) due to ingesting Pb-contaminated leaves of spinach. It is proposed that atmospheric contamination and foliar deposition of metal-PM can seriously affect vegetable growth and can provoke health issues due to ingestion of metal-enriched vegetables. Therefore, atmospheric levels of heavy metals need to be monitored on a regular basis to avoid their food chain contamination and possible human exposure.
+AD  - Department of Environmental Sciences, COMSATS University Islamabad, Vehari Campus, 61100, Pakistan.
+Department of Environmental Sciences, COMSATS University Islamabad, Vehari Campus, 61100, Pakistan. Electronic address: muhammadshahid@ciitvehari.edu.pk.
+Universite de Toulouse, INP-ENSAT, Av. de l'Agrobiopole, 31326, Castanet-Tolosan, France; Centre d'Etude et de Recherche Travail Organisation Pouvoir (CERTOP), UMR5044, Universite J. Jaures-Toulouse II, 5 allee Antonio Machado, 31058, Toulouse, France.
+AN  - 31883499
+AU  - Natasha
+AU  - Shahid, M.
+AU  - Farooq, A. B. U.
+AU  - Rabbani, F.
+AU  - Khalid, S.
+AU  - Dumat, C.
+C1  - Declaration of competing interest The authors declare that there is no conflict of interest regarding the publication of this article.
+DA  - Apr
+DB  - Medline
+DO  - 10.1016/j.chemosphere.2019.125605
+DP  - NLM
+ET  - 20191216
+KW  - Environmental Pollution
+Food Contamination
+Humans
+Hydrogen Peroxide/pharmacology
+Lead/*pharmacokinetics/pharmacology
+Multivariate Analysis
+Nanoparticles/chemistry
+Oxides/*pharmacology
+Plant Leaves/*drug effects
+*Risk Assessment
+Spinacia oleracea/*drug effects
+Biophysiochemical changes
+Foliar application
+Risk assessment
+lead oxide nanoparticles
+N1  - Natasha
+Shahid, Muhammad
+Farooq, Abu Bakr Umer
+Rabbani, Faiz
+Khalid, Sana
+Dumat, Camille
+eng
+England
+2019/12/29
+Chemosphere. 2020 Apr;245:125605. doi: 10.1016/j.chemosphere.2019.125605. Epub 2019 Dec 16.
+PY  - 2020
+SN  - 1879-1298 (Electronic)
+0045-6535 (Linking)
+SP  - 125605
+ST  - Risk assessment and biophysiochemical responses of spinach to foliar application of lead oxide nanoparticles: A multivariate analysis
+T2  - Chemosphere
+TI  - Risk assessment and biophysiochemical responses of spinach to foliar application of lead oxide nanoparticles: A multivariate analysis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31883499
+VL  - 245
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - Arsenic (As) and lead (Pb) are highly toxic and carcinogenic metal(loid)s. The present study evaluated the human exposure risk via estimating As and Pb uptake and physiological/biochemical modifications inside spinach plant grown under metal(loid)-contaminated growth medium. Plants were treated with three levels of each metal(loid) (0, 25 and 125 microM) for four weeks. The spinach plants accumulated high concentration of metal(loid)s in roots (0-18.9 ug g(-1) Pb and 0.2-22.7 ug g(-1) As) and less were translocated towards shoot (0-0.3 ug g(-1) Pb and 0.2-8.8 ug g(-1) As). Metal(loid) accumulation in plants decreased plant biomass and pigment contents and provoked oxidative stress by increased hydrogen peroxide (H(2)O(2)) production in roots up to 65% and 22%, respectively, for As and Pb. The production of H(2)O(2) in leaves was decreased up to 59% and 45%, respectively, for As and Pb than control. Moreover, the antioxidant system (superoxide, catalase, guaiacol peroxidase, ascorbate peroxidase) gets activated under metal(loid) stress. The exposure assessment indices revealed high carcinogenic (CR > 10(-4)) and non-carcinogenic (HQ > 1) risks owing to the consumption of As- and Pb-contaminated spinach leaves. Results revealed As is being more toxic to plants and humans than Pb. These findings suggest possible alarming consequences of As and Pb to spinach and their assimilation within the edible tissues.
+AD  - Department of Environmental Sciences, COMSATS University Islamabad, Vehari Campus, 61100, Pakistan.
+Department of Environmental Sciences, COMSATS University Islamabad, Vehari Campus, 61100, Pakistan. muhammadshahid@ciitvehari.edu.pk.
+AN  - 33486702
+AU  - Natasha
+AU  - Shahid, M.
+AU  - Khalid, S.
+AU  - Saleem, M.
+DA  - Feb
+DB  - Medline
+DO  - 10.1007/s10653-021-00818-0
+DP  - NLM
+ET  - 20210124
+IS  - 2
+KW  - Antioxidants
+*Arsenic/analysis/toxicity
+Humans
+Hydrogen Peroxide
+Lead/toxicity
+*Soil Pollutants/analysis/toxicity
+Spinacia oleracea
+As
+Oxidative stress
+Pb
+Risk assessment
+Uptake
+N1  - Natasha
+Shahid, Muhammad
+Khalid, Sana
+Saleem, Mazhar
+eng
+Netherlands
+2021/01/25
+Environ Geochem Health. 2022 Feb;44(2):487-496. doi: 10.1007/s10653-021-00818-0. Epub 2021 Jan 24.
+PY  - 2022
+SN  - 1573-2983 (Electronic)
+0269-4042 (Linking)
+SP  - 487-496
+ST  - Unrevealing arsenic and lead toxicity and antioxidant response in spinach: a human health perspective
+T2  - Environ Geochem Health
+TI  - Unrevealing arsenic and lead toxicity and antioxidant response in spinach: a human health perspective
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33486702
+VL  - 44
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - Heavy metals in soil pose a serious threat through their toxic effect on the human food chain. Phytoremediation is a clean and green potentially cost-effective technology in remediating the heavy metal-contaminated soil. However, the efficiency of phytoextraction is very often limited by low phytoavailability of heavy metals in soil, slow growth, and small biomass production of hyper-accumulator plants. To solve these issues, accumulator plant(s) with high biomass production and amendment(s) which can solubilize metals in soil is required for better phytoextraction. A pot experiment was conducted to assess the efficiency of phytoextraction of sunflower, marigold, and spinach as affected by the incorporation of Sesbania (solubilizer) and addition of gypsum (solubilizer) in nickel (Ni)-, lead (Pb)-, and chromium (Cr)-contaminated soil. A fractionation study was conducted to study the bioavailability of the heavy metals in contaminated soil after growing the accumulator plants and as affected by using soil amendments (Sesbania and gypsum). Results showed that marigold was the most efficient among the three accumulator plants in phytoextraction of the heavy metals in the contaminated soil. Both sunflower and marigold were able to reduce the bioavailability of the heavy metals in the post-harvest soil, which was reflected in their (heavy metals) lower concentration in subsequently grown paddy crop (straw). The fractionation study revealed that carbonate and organically bound fractions of the heavy metals control the bioavailability of the heavy metals in the experimental soil. Both Sesbania and gypsum were not effective in solubilizing the heavy metals in the experimental soil. Therefore, the possibility of using Sesbania and gypsum for solubilizing heavy metals in contaminated soil is ruled out.
+AD  - Division of Soil Science and Agricultural Chemistry, ICAR-Indian Agricultural Research Institute, New Delhi, 110 012, India. saubhagya.ssac@gmail.com.
+ICAR Mahatma Gandhi Integrated Farming Research Institute, Motihari, 845429, India. saubhagya.ssac@gmail.com.
+Division of Soil Science and Agricultural Chemistry, ICAR-Indian Agricultural Research Institute, New Delhi, 110 012, India.
+Department of Civil, Construction and Environmental Engineering, North Dakota State University, Fargo, ND, 58102, USA.
+AN  - 36807853
+AU  - Samal, S. K.
+AU  - Datta, S. P.
+AU  - Dwivedi, B. S.
+AU  - Meena, M. C.
+AU  - Nogiya, M.
+AU  - Choudhary, M.
+AU  - Golui, D.
+AU  - Raza, M. B.
+DA  - Apr
+DB  - Medline
+DO  - 10.1007/s11356-023-25806-y
+DP  - NLM
+ET  - 20230218
+IS  - 17
+KW  - Humans
+Nickel/analysis
+Chromium/metabolism
+*Helianthus
+Spinacia oleracea/metabolism
+Lead/metabolism
+Calcium Sulfate
+*Metals, Heavy/analysis
+Biodegradation, Environmental
+Soil
+Plants/metabolism
+*Calendula/metabolism
+*Soil Pollutants/analysis
+Fractionation
+Marigold
+Ni, Pb, Cr-contaminated soil
+Phytoextraction
+Spinach
+Sunflower
+N1  - Samal, Saubhagya Kumar
+Datta, Siba Prasad
+Dwivedi, Brahma Swaroop
+Meena, Mahesh Chand
+Nogiya, Mahaveer
+Choudhary, Mahipal
+Golui, Debasis
+Raza, Mohammed Basit
+eng
+Germany
+2023/02/23
+Environ Sci Pollut Res Int. 2023 Apr;30(17):50847-50863. doi: 10.1007/s11356-023-25806-y. Epub 2023 Feb 18.
+PY  - 2023
+SN  - 1614-7499 (Electronic)
+0944-1344 (Linking)
+SP  - 50847-50863
+ST  - Phytoextraction of nickel, lead, and chromium from contaminated soil using sunflower, marigold, and spinach: comparison of efficiency and fractionation study
+T2  - Environ Sci Pollut Res Int
+TI  - Phytoextraction of nickel, lead, and chromium from contaminated soil using sunflower, marigold, and spinach: comparison of efficiency and fractionation study
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/36807853
+VL  - 30
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - Spinach aptamer fluorescence requires formation of a tripartite complex composed of folded RNA, a GFP-like fluorophore, and selective cation coordination. 2'F pyrimidine modified Spinach has retained fluorescence, increased chemical stability, and accelerated cation association via increased G-quadruplex dynamics, thereby reducing readout time and enhancing Spinach utility for aqueous Pb(2+) detection.
+AD  - Department of Biochemistry & Molecular Biology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA. shindeu@ohsu.edu.
+Department of Biochemistry & Molecular Biology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA. shindeu@ohsu.edu and MSC181105, Emory University Main Campus, 1762 Clifton Rd, Atlanta, GA 30022, USA.
+Department of Biochemistry & Molecular Biology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA. shindeu@ohsu.edu and Research Department, Shriners Hospital, Portland, OR 97239, USA.
+Pape Pediatric Research Institute, Division of Pediatric Hematology/Oncology, Department of Pediatrics, Oregon Health & Sciences University, Portland, OR, USA.
+AN  - 31037281
+AU  - Savage, J. C.
+AU  - Shinde, P.
+AU  - Bachinger, H. P.
+AU  - Davare, M. A.
+AU  - Shinde, U.
+DA  - May 25
+DB  - Medline
+DO  - 10.1039/c9cc01697j
+DP  - NLM
+ET  - 20190430
+IS  - 42
+KW  - Aptamers, Nucleotide/*chemistry
+Cations, Divalent
+Circular Dichroism
+Fluorescence
+Fluorescent Dyes/chemistry
+G-Quadruplexes
+In Vitro Techniques
+Lead/*chemistry
+Nucleic Acid Conformation
+Ribose/*chemistry
+Spectrometry, Fluorescence
+N1  - Savage, Jonathan C
+Shinde, Pushkar
+Bachinger, Hans Peter
+Davare, Monika A
+Shinde, Ujwal
+eng
+T32 AI007472/AI/NIAID NIH HHS/
+England
+2019/05/01
+Chem Commun (Camb). 2019 May 25;55(42):5882-5885. doi: 10.1039/c9cc01697j. Epub 2019 Apr 30.
+PY  - 2019
+SN  - 1364-548X (Electronic)
+1359-7345 (Linking)
+SP  - 5882-5885
+ST  - A ribose modification of Spinach aptamer accelerates lead(ii) cation association in vitro
+T2  - Chem Commun (Camb)
+TI  - A ribose modification of Spinach aptamer accelerates lead(ii) cation association in vitro
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31037281
+VL  - 55
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - [This corrects the article DOI: 10.1371/journal.pone.0139831.].
+AN  - 26600244
+AU  - Staff, Plos One
+C2  - PMC4658196
+DB  - Medline
+DO  - 10.1371/journal.pone.0143766
+DP  - NLM
+ET  - 20151124
+IS  - 11
+KW  - Animals
+Apoptosis/*drug effects
+Cells, Cultured
+Cytoprotection/drug effects
+Hepatocytes/*metabolism/pathology
+Ipomoea/*chemistry
+Lead Poisoning/metabolism/pathology/*prevention & control
+Mice
+Organometallic Compounds/*toxicity
+Oxidative Stress/*drug effects
+Plant Extracts/chemistry/*pharmacology
+N1  - eng
+Published Erratum
+2015/11/26
+PLoS One. 2015 Nov 24;10(11):e0143766. doi: 10.1371/journal.pone.0143766. eCollection 2015.
+PY  - 2015
+SN  - 1932-6203 (Electronic)
+1932-6203 (Linking)
+SP  - e0143766
+ST  - Correction: Water Spinach, Ipomoea aquatica (Convolvulaceae), Ameliorates Lead Toxicity by Inhibiting Oxidative Stress and Apoptosis
+T2  - PLoS One
+TI  - Correction: Water Spinach, Ipomoea aquatica (Convolvulaceae), Ameliorates Lead Toxicity by Inhibiting Oxidative Stress and Apoptosis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/26600244
+VL  - 10
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AN  - 4061866
+AU  - Stephen, S. C.
+AU  - Littlejohn, D.
+AU  - Ottaway, J. M.
+DA  - Sep
+DB  - Medline
+DO  - 10.1039/an9851001147
+DP  - NLM
+IS  - 9
+KW  - Drug Stability
+Evaluation Studies as Topic
+Lead/*analysis
+Spectrophotometry, Atomic
+Vegetables/*analysis
+N1  - Stephen, S C
+Littlejohn, D
+Ottaway, J M
+eng
+Research Support, Non-U.S. Gov't
+England
+1985/09/01
+Analyst. 1985 Sep;110(9):1147-51. doi: 10.1039/an9851001147.
+PY  - 1985
+SN  - 0003-2654 (Print)
+0003-2654 (Linking)
+SP  - 1147-51
+ST  - Evaluation of a slurry technique for the determination of lead in spinach by electrothermal atomic-absorption spectrometry
+T2  - Analyst
+TI  - Evaluation of a slurry technique for the determination of lead in spinach by electrothermal atomic-absorption spectrometry
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/4061866
+VL  - 110
+ID  - 25
+ER  - 
+
+TY  - JOUR
+AB  - The present study investigated the effects of foliar application of zinc (Zn) and selenium (Se) on bioavailability of Zn and Se and toxicity of cadmium (Cd) and lead (Pb) to different water spinach ecotypes (LA and HA) grown in slightly (XZ) or moderately (LJY) contaminated fields via in vitro digestion combined with Caco-2/HL-7702 cell model. The obtained results revealed that foliar application of Zn and Se promoted yield, increased total, bioaccessible and bioavailable fractions of Zn and Se in plants, indicating that foliar application is a feasible way of biofortification. Although there was no significant effect on liver cell proliferation (MTT), membrane stability (LDH) and hepatocyte enzyme (ALT and AST) activities, the obvious ecotype and soil dependent fluctuations of lipid peroxidation (MDA) and antioxidant enzyme (SOD, POD and CAT) activities in serum highly suggest that the low accumulator and clean field should be used in agricultural production rather than the high accumulator and contaminated farmland. Moreover, foliar application of Zn and Se improved nutritional quality of all water spinach genotypes in both fields, including increased Fe, vitamin C, cellulose and chlorophyll, maintained concentrations of potassium (K), manganese (Mn), copper (Cu), protein, and nitrate. These results demonstrate that this agricultural management practice may prove to be an effective approach for minimizing health risk and alleviating "hidden hunger" in the developing countries.
+AD  - Ministry of Education Key Laboratory of Environmental Remediation and Ecosystem Health, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, People's Republic of China.
+Jiangxi Yangtze River Economic Zone Research Institute, Jiujiang University, Jiujiang 332005, People's Republic of China.
+Department of Agriculture, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh.
+Department of Botany, Federal Urdu University of Arts, Science and Technology, Karachi 75300, Pakistan.
+University of Florida, Institute of Food and Agricultural Sciences, Indian River Research and Education Center, Fort Pierce, FL 34945, United States.
+Ministry of Education Key Laboratory of Environmental Remediation and Ecosystem Health, College of Environmental and Resource Sciences, Zhejiang University, Hangzhou 310058, People's Republic of China. Electronic address: xeyang@zju.edu.cn.
+AN  - 32950791
+AU  - Tang, L.
+AU  - Hamid, Y.
+AU  - Liu, D.
+AU  - Shohag, M. J. I.
+AU  - Zehra, A.
+AU  - He, Z.
+AU  - Feng, Y.
+AU  - Yang, X.
+DA  - Dec
+DB  - Medline
+DO  - 10.1016/j.envint.2020.106122
+DP  - NLM
+ET  - 20200917
+KW  - Biological Availability
+Caco-2 Cells
+Cadmium/analysis
+Humans
+*Ipomoea
+Lead/toxicity
+*Selenium/toxicity
+Soil
+*Soil Pollutants/analysis/toxicity
+Zinc/analysis/toxicity
+Biofortification
+Caco-2
+Co-contaminated soil
+Essential nutrients
+Hl-7702
+Toxic metals
+N1  - Tang, Lin
+Hamid, Yasir
+Liu, Di
+Shohag, Md Jahidul Islam
+Zehra, Afsheen
+He, Zhenli
+Feng, Ying
+Yang, Xiaoe
+eng
+Research Support, Non-U.S. Gov't
+Netherlands
+2020/09/21
+Environ Int. 2020 Dec;145:106122. doi: 10.1016/j.envint.2020.106122. Epub 2020 Sep 17.
+PY  - 2020
+SN  - 1873-6750 (Electronic)
+0160-4120 (Linking)
+SP  - 106122
+ST  - Foliar application of zinc and selenium alleviates cadmium and lead toxicity of water spinach - Bioavailability/cytotoxicity study with human cell lines
+T2  - Environ Int
+TI  - Foliar application of zinc and selenium alleviates cadmium and lead toxicity of water spinach - Bioavailability/cytotoxicity study with human cell lines
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32950791
+VL  - 145
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - Oxidative stress and biochemical responses of spinach seedlings to soil Pb stress were investigated by pot experiments. The seedlings were exposed to 0-500 mg kg(-1) extraneous Pb. After 30 days of germination, production of O(2)(-), HSP 70, HSP 60, superoxide dismutase (SOD) activities, carbonyl groups and lipid peroxidation was significantly induced by soil Pb. After 50 days, HSP 70 and HSP 60 decreased, and HSP 60 was significantly inhibited at 500 mg kg(-1). The results indicated that Pb probably induced oxidative stress and proteotoxicity to the seedlings through O(2)(-) accumulation, and that SOD, HSP 70 and HSP 60 were important defense mechanisms to alleviate the oxidative stress. It is found that O(2)(-), HSP 70 and HSP 60 were the most sensitive parameters and had the potential to act as biomarkers for early warning of soil Pb contamination. Concentrations of soil Pb, exposing time and combination of multiple parameters should be also taken into consideration when assessing soil Pb pollution by these biomarkers.
+AD  - State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing 210093, China.
+AN  - 20933285
+AU  - Wang, C.
+AU  - Gu, X.
+AU  - Wang, X.
+AU  - Guo, H.
+AU  - Geng, J.
+AU  - Yu, H.
+AU  - Sun, J.
+DA  - Jan
+DB  - Medline
+DO  - 10.1016/j.ecoenv.2009.02.009
+DP  - NLM
+ET  - 20101008
+IS  - 1
+KW  - Biomarkers/analysis
+*Environmental Monitoring
+Germination/drug effects
+HSP70 Heat-Shock Proteins/metabolism
+Heat-Shock Proteins/*metabolism
+Lead/*toxicity
+Lipid Peroxidation/drug effects
+Oxidative Stress/*drug effects
+Oxygen/metabolism
+Seedlings/drug effects/physiology
+Soil Pollutants/*toxicity
+Spinacia oleracea/*drug effects/metabolism
+Superoxide Dismutase/metabolism
+Superoxides/metabolism
+Time Factors
+N1  - Wang, Chengrun
+Gu, Xueyuan
+Wang, Xiaorong
+Guo, Hongyan
+Geng, Jinju
+Yu, Hongxia
+Sun, Jian
+eng
+Research Support, Non-U.S. Gov't
+Netherlands
+2010/10/12
+Ecotoxicol Environ Saf. 2011 Jan;74(1):41-7. doi: 10.1016/j.ecoenv.2009.02.009. Epub 2010 Oct 8.
+PY  - 2011
+SN  - 1090-2414 (Electronic)
+0147-6513 (Linking)
+SP  - 41-7
+ST  - Stress response and potential biomarkers in spinach (Spinacia oleracea L.) seedlings exposed to soil lead
+T2  - Ecotoxicol Environ Saf
+TI  - Stress response and potential biomarkers in spinach (Spinacia oleracea L.) seedlings exposed to soil lead
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/20933285
+VL  - 74
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - Seedlings of spinach were grown in Hoagland's medium containing 0, 20, 40, 60, 80, 100 microM PbCl2, respectively, for 4 weeks. Chloroplasts were assayed for overproduction of reactive oxygen species (ROS) such as superoxide radicals (O2(*-)) and hydrogen peoxide (H2O2) and of lipid peroxide (malonyldialdehyde) and for activities of the antioxidant enzymes such as superoxide dismutase, catalase, ascorbate peroxidase, and guaiacol peroxidase and glutathione content, oxygen-evolving rate, and chlorophyll content. Increase in both ROS and lipid peroxide content and reduction in photosynthesis and activities of the antioxidant defense system indicated that spinach chloroplast underwent a stress condition due to an oxidative attack. Seedling growth cultivated in containing Pb2+ media was significantly inhibited. The results imply that spinach chloroplast was not able to tolerate the oxidative stress induced by Pb2+ due to having no effective antioxidant defense mechanism.
+AD  - Medical College of Soochow University, Suzhou 215123, People's Republic of China.
+AN  - 18709336
+AU  - Wu, X.
+AU  - Huang, H.
+AU  - Liu, X.
+AU  - Chen, L.
+AU  - Liu, C.
+AU  - Su, M.
+AU  - Hong, F.
+DA  - Winter
+DB  - Medline
+DO  - 10.1007/s12011-008-8195-7
+DP  - NLM
+ET  - 20080816
+IS  - 1-3
+KW  - Antioxidants/metabolism
+Ascorbate Peroxidases
+Catalase/metabolism
+Chloroplasts/*drug effects/*metabolism
+Lead/*pharmacology
+Lipid Peroxidation/drug effects
+Oxidative Stress/*drug effects
+Peroxidase/metabolism
+Peroxidases/metabolism
+Reactive Oxygen Species/metabolism
+Spinacia oleracea/*drug effects/*metabolism
+Superoxide Dismutase/metabolism
+N1  - Wu, Xiao
+Huang, Hao
+Liu, Xiaoqing
+Chen, Liang
+Liu, Chao
+Su, Mingyu
+Hong, Fashui
+eng
+Research Support, Non-U.S. Gov't
+2008/08/19
+Biol Trace Elem Res. 2008 Winter;126(1-3):257-68. doi: 10.1007/s12011-008-8195-7. Epub 2008 Aug 16.
+PY  - 2008
+SN  - 1559-0720 (Electronic)
+0163-4984 (Linking)
+SP  - 257-68
+ST  - Oxidative stress induced by lead in chloroplast of spinach
+T2  - Biol Trace Elem Res
+TI  - Oxidative stress induced by lead in chloroplast of spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18709336
+VL  - 126
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - Lead (Pb(2+)) is a well-known highly toxic element. The mechanisms of the Pb(2+) toxicity are not well understood for nitrogen metabolism of higher plants. In this paper, we studied the effects of various concentrations of PbCl(2) on the nitrogen metabolism of growing spinach. The experimental results showed that Pb(2+) treatments significantly decreased the nitrate nitrogen (NO(-)(3)-N) absorption and inhibited the activities of nitrate reductase, glutamate dehydrogenase, glutamine synthase, and glutamic-pyruvic transaminase of spinach, and inhibited the synthesis of organic nitrogen compounds such as protein and chlorophyll. However, Pb(2+) treatments increased the accumulation of ammonium nitrogen NH(+)(4)-N)in spinach cell. It implied that Pb(2+) could inhibit inorganic nitrogen to be translated into organic nitrogen in spinach, thus led to the reduction in spinach growth.
+AD  - College of Life Sciences, Suzhou University, Suzhou, People's Republic of China.
+AN  - 17955201
+AU  - Wu, X.
+AU  - Liu, C.
+AU  - Qu, C.
+AU  - Huang, H.
+AU  - Liu, X.
+AU  - Chen, L.
+AU  - Su, M.
+AU  - Hong, F.
+DA  - Mar
+DB  - Medline
+DO  - 10.1007/s12011-007-8046-y
+DP  - NLM
+ET  - 20071023
+IS  - 3
+KW  - Alanine Transaminase/antagonists & inhibitors/metabolism
+Glutamate Dehydrogenase/antagonists & inhibitors/metabolism
+Glutamate-Ammonia Ligase/antagonists & inhibitors/metabolism
+Lead/*pharmacology
+Nitrate Reductase/antagonists & inhibitors/metabolism
+Nitrates/metabolism
+Nitrogen/*metabolism
+Quaternary Ammonium Compounds/metabolism
+Spinacia oleracea/*drug effects/enzymology/metabolism
+N1  - Wu, Xiao
+Liu, Chao
+Qu, Chunxiang
+Huang, Hao
+Liu, Xiaoqing
+Chen, Liang
+Su, Mingyu
+Hong, Fashui
+eng
+Research Support, Non-U.S. Gov't
+2007/10/24
+Biol Trace Elem Res. 2008 Mar;121(3):258-65. doi: 10.1007/s12011-007-8046-y. Epub 2007 Oct 23.
+PY  - 2008
+SN  - 0163-4984 (Print)
+0163-4984 (Linking)
+SP  - 258-65
+ST  - Influences of lead (II) chloride on the nitrogen metabolism of spinach
+T2  - Biol Trace Elem Res
+TI  - Influences of lead (II) chloride on the nitrogen metabolism of spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17955201
+VL  - 121
+ID  - 22
+ER  - 
+
+TY  - JOUR
+AB  - Photosynthesis is one of the most sensitive processes to lead, but the effects of lead on the transformation of light energy of plants are still not clearly understood. In the present paper, spinach was cultivated in the experimental fields and was sprayed with various concentrations of PbCl2 solution. We investigated the effects of lead on the activities of photochemical reaction and the key enzymes of carbon assimilation in spinach chloroplast. The results showed that Pb2+ treatment could significantly inhibit the Hill reaction activity of spinach chloroplast and photophosphorylation, and it had a more conspicuous effect on cyclic photophosphorylation than non-cyclic photophosphorylation. The activities of ATPase on the thylakoid membrane were severely inhibited under Pb2+-treated condition, and Ca2+ ATPase activity was affected more obviously than Mg2+ ATPase activity. Meanwhile, the activities of the key enzymes of carbon assimilation were also significantly reduced by Pb2+, especially Rubisco activase. The reduction of dry weight of spinach caused by Pb2+ was more significant than that of fresh weight. It implied that Pb2+ could disturb light energy transformation of chloroplast.
+AD  - Medical College of Soochow University, Suzhou 215123, People's Republic of China.
+AN  - 18704275
+AU  - Xiao, W.
+AU  - Chao, L.
+AU  - Chunxiang, Q.
+AU  - Hao, H.
+AU  - Xiaoqing, L.
+AU  - Liang, C.
+AU  - Fashui, H.
+DA  - Winter
+DB  - Medline
+DO  - 10.1007/s12011-008-8196-6
+DP  - NLM
+ET  - 20080814
+IS  - 1-3
+KW  - Ca(2+) Mg(2+)-ATPase/metabolism
+Calcium-Transporting ATPases/metabolism
+Chloroplasts/*drug effects/*metabolism
+Lead/*pharmacology
+Photophosphorylation/*drug effects
+Spinacia oleracea/*drug effects/*metabolism
+Thylakoids/drug effects/metabolism
+N1  - Xiao, Wu
+Chao, Liu
+Chunxiang, Qu
+Hao, Huang
+Xiaoqing, Liu
+Liang, Chen
+Fashui, Hong
+eng
+Research Support, Non-U.S. Gov't
+2008/08/16
+Biol Trace Elem Res. 2008 Winter;126(1-3):269-79. doi: 10.1007/s12011-008-8196-6. Epub 2008 Aug 14.
+PY  - 2008
+SN  - 1559-0720 (Electronic)
+0163-4984 (Linking)
+SP  - 269-79
+ST  - Effects of lead on activities of photochemical reaction and key enzymes of carbon assimilation in spinach chloroplast
+T2  - Biol Trace Elem Res
+TI  - Effects of lead on activities of photochemical reaction and key enzymes of carbon assimilation in spinach chloroplast
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18704275
+VL  - 126
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - An amendment to this paper has been published and can be accessed via a link at the top of the paper.
+AD  - Department of Soil Science, Faculty of Agricultural Sciences and Technology, Bahauddin Zakariya University, Multan, 60800, Punjab, Pakistan.
+Department of Agronomy, The University of Haripur, Haripur, 22620, Pakistan. shahfahad@uoswabi.edu.pk.
+College of Plant Sciences and Technology, Huazhong Agriculture University, Wuhan, China. shahfahad@uoswabi.edu.pk.
+Department of Agrochemistry, Soil Science, Microbiology and Plant Nutrition, Faculty of AgriSciences, Mendel University in Brno, Zemedelska 1, 61300, Brno, Czech Republic.
+Institute of Chemistry and Technology of Environmental Protection, Brno University of Technology, Faculty of Chemistry, Purkynova 118, 62100, Brno, Czech Republic.
+Department of Agrochemistry, Soil Science, Microbiology and Plant Nutrition, Faculty of AgriSciences, Mendel University in Brno, Zemedelska 1, 61300, Brno, Czech Republic. rahulmedcure@gmail.com.
+Department of Soil Science, Faculty of Agricultural Sciences and Technology, Bahauddin Zakariya University, Multan, 60800, Punjab, Pakistan. sd96850@gmail.com.
+AN  - 33033275
+AU  - Zafar-Ul-Hye, M.
+AU  - Tahzeeb-Ul-Hassan, M.
+AU  - Abid, M.
+AU  - Fahad, S.
+AU  - Brtnicky, M.
+AU  - Dokulilova, T.
+AU  - Datta, R.
+AU  - Danish, S.
+C2  - PMC7546616
+DA  - Oct 8
+DB  - PubMed-not-MEDLINE
+DO  - 10.1038/s41598-020-73325-4
+DP  - NLM
+ET  - 20201008
+IS  - 1
+N1  - Zafar-Ul-Hye, Muhammad
+Tahzeeb-Ul-Hassan, Muhammad
+Abid, Muhammad
+Fahad, Shah
+Brtnicky, Martin
+Dokulilova, Tereza
+Datta, Rahul
+Danish, Subhan
+eng
+Published Erratum
+England
+2020/10/10
+Sci Rep. 2020 Oct 8;10(1):17111. doi: 10.1038/s41598-020-73325-4.
+PY  - 2020
+SN  - 2045-2322 (Electronic)
+2045-2322 (Linking)
+SP  - 17111
+ST  - Author Correction: Potential role of compost mixed biochar with rhizobacteria in mitigating lead toxicity in spinach
+T2  - Sci Rep
+TI  - Author Correction: Potential role of compost mixed biochar with rhizobacteria in mitigating lead toxicity in spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33033275
+VL  - 10
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - Consumption of heavy metals, especially lead (Pb) contaminated food is a serious threat to human health. Higher Pb uptake by the plant affects the quality, growth and yield of crops. However, inoculation of plant growth-promoting rhizobacteria (PGPR) along with a mixture of organic amendments and biochar could be an effective way to overcome the problem of Pb toxicity. That's why current pot experiment was conducted to investigate the effect of compost mixed biochar (CB) and ACC deaminase producing PGPR on growth and yield of spinach plants under artificially induced Pb toxicity. Six different treatments i.e., control, Alcaligenes faecalis (PGPR1), Bacillus amyloliquefaciens (PGPR2), compost + biochar (CB), PGPR1 + CB and PGPR2 + CB were applied under 250 mg Pb kg(-1) soil. Results showed that inoculation of PGPRs (Alcaligenes faecalis and Bacillus amyloliquefaciens) alone and along with CB significantly enhanced root fresh (47%) and dry weight (31%), potassium concentration (11%) in the spinach plant. Whereas, CB + Bacillus amyloliquefaciens significantly decreased (43%) the concentration of Pb in the spinach root over control. In conclusion, CB + Bacillus amyloliquefaciens has the potential to mitigate the Pb induced toxicity in the spinach. The obtained result can be further used in the planning and execution of rhizobacteria and compost mixed biochar-based soil amendment.
+AD  - Department of Soil Science, Faculty of Agricultural Sciences and Technology, Bahauddin Zakariya University, Multan, 60800, Punjab, Pakistan.
+Department of Agronomy, The University of Haripur, Haripur, 22620, Pakistan. shahfahad@uoswabi.edu.pk.
+College of Plant Sciences and Technology, Huazhong Agriculture University, Wuhan, China. shahfahad@uoswabi.edu.pk.
+Department of Agrochemistry, Soil Science, Microbiology and Plant Nutrition, Faculty of AgriSciences, Mendel University in Brno, Zemedelska 1, 61300, Brno, Czech Republic.
+Institute of Chemistry and Technology of Environmental Protection, Brno University of Technology, Faculty of Chemistry, Purkynova 118, 62100, Brno, Czech Republic.
+Department of Agrochemistry, Soil Science, Microbiology and Plant Nutrition, Faculty of AgriSciences, Mendel University in Brno, Zemedelska 1, 61300, Brno, Czech Republic. rahulmedcure@gmail.com.
+Department of Soil Science, Faculty of Agricultural Sciences and Technology, Bahauddin Zakariya University, Multan, 60800, Punjab, Pakistan. sd96850@gmail.com.
+AN  - 32699323
+AU  - Zafar-Ul-Hye, M.
+AU  - Tahzeeb-Ul-Hassan, M.
+AU  - Abid, M.
+AU  - Fahad, S.
+AU  - Brtnicky, M.
+AU  - Dokulilova, T.
+AU  - Datta, R.
+AU  - Danish, S.
+C1  - The authors declare no competing interests.
+C2  - PMC7376197
+DA  - Jul 22
+DB  - Medline
+DO  - 10.1038/s41598-020-69183-9
+DP  - NLM
+ET  - 20200722
+IS  - 1
+KW  - Alcaligenes faecalis/enzymology/isolation & purification/metabolism
+Bacillus amyloliquefaciens/enzymology/isolation & purification/metabolism
+Bacterial Proteins/metabolism
+Carbon-Carbon Lyases/metabolism
+Charcoal/*chemistry
+Chlorophyll/metabolism
+Hydrogen-Ion Concentration
+Lead/chemistry/metabolism/*toxicity
+Plant Roots/growth & development/metabolism/microbiology
+Potassium/analysis
+Soil/chemistry
+Soil Microbiology
+Soil Pollutants/chemistry/metabolism/*toxicity
+Spinacia oleracea/chemistry/*drug effects/microbiology
+Symbiosis
+N1  - Zafar-Ul-Hye, Muhammad
+Tahzeeb-Ul-Hassan, Muhammad
+Abid, Muhammad
+Fahad, Shah
+Brtnicky, Martin
+Dokulilova, Tereza
+Datta, Rahul
+Danish, Subhan
+eng
+England
+2020/07/24
+Sci Rep. 2020 Jul 22;10(1):12159. doi: 10.1038/s41598-020-69183-9.
+PY  - 2020
+SN  - 2045-2322 (Electronic)
+2045-2322 (Linking)
+SP  - 12159
+ST  - Potential role of compost mixed biochar with rhizobacteria in mitigating lead toxicity in spinach
+T2  - Sci Rep
+TI  - Potential role of compost mixed biochar with rhizobacteria in mitigating lead toxicity in spinach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32699323
+VL  - 10
+ID  - 8
+ER  - 
+
