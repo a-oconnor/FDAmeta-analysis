@@ -33,14 +33,14 @@ summary(dat1)
 #########################
 # Lets make randomized, blinded, days into categorical variables
 labels(dat1)
-dat1$randomization <- as.factor(dat1$randomization)
-dat1$blinding <- as.factor(dat1$blinding)
+dat1$observational<- as.factor(dat1$observational)
+dat1$leafy_green <- as.factor(dat1$leafy_green)
 #########################
 # Lets look at a summary of the data
 summary(dat1) 
 #########################
 dat0 <- read.csv("dat0.csv")
-meta0<-metabin(event.e, n.e, event.c, n.c, studlab=trial, sm="OR", comb.fixed = T, comb.random = T, byvar = randomization, data=dat0)
+meta0<-metabin(event.e, n.e, event.c, n.c, studlab=trial, sm="OR", comb.fixed = T, comb.random = T, byvar = observational, data=dat0)
 summary(meta0)
 ##
 forest(meta0)

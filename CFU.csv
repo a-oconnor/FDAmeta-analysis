@@ -1,0 +1,10 @@
+trial,year,experiment,control,n.e,mean.e,sd.e,n.c,mean.c,sd.c,temperature<25C,hydroponic growth
+1,2021,spray wash,tap water,20,4.3,0.5,20,5.3,0.6,1,1
+2,2023,spray wash,tap water,150,5.3,0.7,145,5.3,0.7,0,0
+3,2021,dip wash,tap water,70,4.6,0.9,70,5.65,0.9,1,0
+4,2022,dip wash,tap water,67,6.5,0.4,67,6.1,0.4,0,0
+5,2010,dip wash,tap water,80,4.9,0.4,80,5.7,0.4,1,1
+6,2015,soak ,tap water,30,6.2,0.5,30,7.5,0.5,1,0
+7,2015,dip wash,tap water,40,6.5,0.6,40,6.3,0.6,0,0
+8,2017,soak ,tap water,15,4.8,0.8,20,4.5,0.7,0,1
+9,2012,dip wash,tap water,14,5.3,0.4,20,6.6,0.5,1,1
